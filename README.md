@@ -1,10 +1,9 @@
 
 # 🚀 MERN Stack Course Training
 
-Welcome to the **MERN Stack Course Training** repository, a day-by-day structured learning guide to becoming a full-stack web developer using the **MERN stack** – **MongoDB, Express.js, React.js, and Node.js**.
+Welcome to the **MERN Stack Course ** repository, a day-by-day structured learning guide to becoming a full-stack web developer using the **MERN stack** – **MongoDB, Express.js, React.js, and Node.js**.
 
-> **Training Institute**: Grow Foundation  
-> **Trainer**: Jagmohan Rai Sir
+> **Training Institute**: 
 
 ---
 
@@ -53,7 +52,6 @@ Each day's folder includes:
 ## 🌟 Why This Course?
 
 - Taught by **Jagmohan Rai Sir**, an industry-experienced trainer.
-- Organized by **Grow Foundation**, committed to practical IT education.
 - Day-wise breakdown for structured learning.
 - Real-world projects and exercises.
 - Focus on both development and deployment.
@@ -83,4 +81,5 @@ Each day's folder includes:
 ---
 
 ⭐ Don't forget to **Star** this repo if you find it helpful!
+
 
