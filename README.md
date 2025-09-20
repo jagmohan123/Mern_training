@@ -1,5 +1,5 @@
 
-# 🚀 MERN Stack Course Training
+# 🚀 MERN Stack Course
 
 Welcome to the **MERN Stack Course Training** repository, a day-by-day structured learning guide to becoming a full-stack web developer using the **MERN stack** – **MongoDB, Express.js, React.js, and Node.js**.
 
@@ -83,4 +83,5 @@ Each day's folder includes:
 ---
 
 ⭐ Don't forget to **Star** this repo if you find it helpful!
+
 
